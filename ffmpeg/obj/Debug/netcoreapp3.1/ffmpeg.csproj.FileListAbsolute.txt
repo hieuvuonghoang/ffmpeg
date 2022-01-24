@@ -1,0 +1,17 @@
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\bin\Debug\netcoreapp3.1\ffmpeg.exe
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\bin\Debug\netcoreapp3.1\ffmpeg.deps.json
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\bin\Debug\netcoreapp3.1\ffmpeg.runtimeconfig.json
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\bin\Debug\netcoreapp3.1\ffmpeg.runtimeconfig.dev.json
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\bin\Debug\netcoreapp3.1\ffmpeg.dll
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\bin\Debug\netcoreapp3.1\ffmpeg.pdb
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\bin\Debug\netcoreapp3.1\Xabe.FFmpeg.dll
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\obj\Debug\netcoreapp3.1\ffmpeg.csproj.AssemblyReference.cache
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\obj\Debug\netcoreapp3.1\ffmpeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\obj\Debug\netcoreapp3.1\ffmpeg.AssemblyInfoInputs.cache
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\obj\Debug\netcoreapp3.1\ffmpeg.AssemblyInfo.cs
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\obj\Debug\netcoreapp3.1\ffmpeg.csproj.CoreCompileInputs.cache
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\obj\Debug\netcoreapp3.1\ffmpeg.csproj.CopyComplete
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\obj\Debug\netcoreapp3.1\ffmpeg.dll
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\obj\Debug\netcoreapp3.1\ffmpeg.pdb
+C:\Users\vuong\Desktop\Projects\ffmpeg\ffmpeg\obj\Debug\netcoreapp3.1\ffmpeg.genruntimeconfig.cache
